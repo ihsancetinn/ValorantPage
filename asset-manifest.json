@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ValorantPage/static/css/main.a043527a.css",
+    "main.js": "/ValorantPage/static/js/main.2fc9a3db.js",
+    "static/media/logo.png": "/ValorantPage/static/media/logo.cab94f1d4ba8181739ed.png",
+    "index.html": "/ValorantPage/index.html",
+    "main.a043527a.css.map": "/ValorantPage/static/css/main.a043527a.css.map",
+    "main.2fc9a3db.js.map": "/ValorantPage/static/js/main.2fc9a3db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a043527a.css",
+    "static/js/main.2fc9a3db.js"
+  ]
+}
