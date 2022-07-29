@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans:wght@300&family=Poppins&family=Roboto:ital,wght@0,300;0,400;1,100&family=Supermercado+One&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    display:flex;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #ff4655;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+ul{
+    list-style: none;
+}
